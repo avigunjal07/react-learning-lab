@@ -1,0 +1,27 @@
+body{
+    padding: 50px;
+    background-color: #E6EEC9;
+    display: flex;
+    flex-direction: row;
+}
+
+#userimage{
+    height: 200px;
+    border-radius: 50%;
+}
+
+.cards{
+    background-color:#6FCF97;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    padding: 20px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: 250px;
+    box-shadow: 1px 1px 5px 2px rgb(81, 133, 102);
+}
